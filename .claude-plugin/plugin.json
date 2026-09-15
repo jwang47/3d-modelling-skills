@@ -1,0 +1,6 @@
+{
+  "name": "3d-modelling-skill",
+  "description": "Reference-led 3D modeling skills: prepare concept references sufficient to model from, then build and refine the mesh against them with component comparisons, connected surface construction, and fit checks.",
+  "version": "0.1.0",
+  "keywords": ["3d", "blender", "modeling", "reference", "mesh", "concept-art"]
+}
